@@ -1,0 +1,307 @@
+.cont_black {
+    background-color: #000000;
+    width: 100%;
+}
+
+.yellow_div_navbar {
+    background-color: #FFCC00;
+    border-radius: 30px;
+    padding: 5px 20px;
+    margin-left: 140px;
+}
+
+.yellow_div_navbar a {
+    color: #000000;
+    font-size: 13px;
+}
+
+.yellow_div_navbar img {
+    padding-right: 10px;
+}
+
+.bg-light {
+    background-color: #000000 !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+#logo {
+    padding-right: 80px;
+}
+
+.btn-black {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 7px 20px;
+    border-radius: 30px;
+    margin-left: 35px;
+}
+
+.breadcrumb-item a{
+    color: #000000;
+}
+
+.breadcrumb{
+    padding: 20px 0;
+}
+
+.header .col-6 h3{
+    color: #000000;
+}
+
+.header .col-2 a{
+    color: #000000;
+    font-size: 15px;
+}
+
+.header .col-2 .btn-black{
+    margin-left: 0;
+}
+.search_block{
+    padding: 20px 0;
+}
+
+.search_block .form-control{
+    border-radius: 30px;
+    border-color: #000000;
+}
+
+.search_block .col-9 .col{
+    background-color: #FFCC00;
+    border-radius: 30px;
+    width: auto;
+    padding: 5px 15px;
+    margin: 0 5px;
+    flex: none;
+}
+
+.bd-sidebar {
+    grid-area: sidebar;
+    width: 100%;
+    box-shadow: 0px 1px 16px rgba(0, 0, 0, 0.18);
+    border-radius: 4px; 
+}
+
+.bd-links {
+    position: sticky;
+    top: 5rem;
+    display: block !important;
+    height: calc(100vh - 7rem);
+    padding: 10px 20px;
+    margin-left: -.25rem;
+    overflow-y: auto;
+    overflow: auto;
+    font-weight: 600;
+}
+
+.text_area_count_person{
+    text-align: center;
+}
+
+.text_area_count_person button{
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #707070;
+    font-size: 14px;
+}
+
+.btn:hover {
+    color: #FFFFFF;
+}
+
+.btn-secondary:focus {
+    color: #707070;
+    background-color: #FFFFFF;
+    border-color: #565e64;
+}
+
+.text_area_count_person ul{
+    width: 100%;
+}
+
+.pt-md-1 {
+    padding-top: .25rem!important;
+}
+
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.list-unstyled li{
+    font-size: 15px;
+}
+
+.mb-1 {
+    margin-bottom: .25rem!important;
+}
+
+.NDS{
+    padding: 20px 0;
+}
+
+.NDS button{
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #707070;
+    font-size: 14px;
+}
+
+.list_style{
+    margin-right: 10px;
+    padding-bottom: 2.5px;
+}
+
+.tit{
+    color: #000000;
+    margin-top: 20px;
+}
+
+.slider .col-6{
+    margin: 20px 0;
+}
+
+.carousel-control-prev-icon {
+    background-image: url('/img/vector_l.png');
+}
+
+.carousel-control-next-icon {
+    background-image: url('/img/vector_r.png');
+}
+
+.badg{
+    position: relative;
+    top:-300px;
+    right: 0;
+    width: auto;
+    height: 0;
+}
+
+.slider .col-6{ 
+    box-shadow: 0px 1px 16px rgba(0, 0, 0, 0.18);
+border-radius: 4px;
+}
+
+
+.povar{
+    height: 0;
+    position: relative;
+    top: -80px;
+}
+
+.info_menu{
+    margin-top: 40px;
+}
+.info_menu img{
+    margin-right: 10px;
+}
+
+.info_menu span{
+    margin-left: 10px;
+}
+
+.info_menu p{
+    font-size: 16px;
+}
+
+.p_ti{
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+
+.p_te{
+    padding-top: 0px;
+}
+
+.price{
+    color: #D30303;
+    font-size: 24px;
+}
+
+.btn_menu{
+    right: 0;
+    padding: 6px 15px;
+    background-color: #FFCC00;
+    font-size: 14px;
+    border-width: 0;
+}
+
+.btn-secondary{
+    background-color: #000000;
+}
+
+.open_btn{
+    color: #000000;
+}
+
+.image_news {
+    position: relative;
+    width: 285px;
+    height: 165px;
+    margin: 0;
+}
+
+.data_black {
+    width: 242px;
+    font-size: 14px;
+    background-color: #000000;
+    padding: 5px 15px;
+    padding-right: 55px;
+    color: #FFFFFF;
+    position: relative;
+    border-radius: 8px 0px;
+    bottom: 30px;
+    left: -10px;
+}
+
+.arr_news {
+    position: relative;
+    bottom: 78px;
+    right: -208px;
+}
+
+.footer {
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.footer .col {
+    color: #FFFFFF;
+}
+
+h2 {
+    color: #000;
+}
+
+h4 {
+    color: #000000;
+}
+.dsk_cont{
+    padding-top: 50px;
+}
+
+.col_6_ab a {
+    width: 33%;
+    color: #000000;
+    border-radius: 30px;
+    border-width: 0;
+    background-color: #FFCC00;
+    padding: 5px 38px 5px 25px;
+    margin-top: 20px;
+}
